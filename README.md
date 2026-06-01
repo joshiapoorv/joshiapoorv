@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Enthusiastic MCA student with a passion for coding, problem-solving, and developing efficient software solutions.<br>Skilled in C, C++, Python, Java, SQL, and Machine Learning, along with experience in DSA and Frontend<br>development. Eager to contribute to a forward-thinking development team while continuing to enhance technical<br>expertise.
 
 
